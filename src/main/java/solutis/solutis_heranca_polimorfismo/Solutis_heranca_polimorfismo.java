@@ -1,14 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package solutis.solutis_heranca_polimorfismo;
 
-import ClassesQuestoes5a11.Cargo;
-import ClassesQuestoes5a11.Funcionario;
-import ClassesQuestoes5a11.FuncionarioEnsinoBasico;
-import ClassesQuestoes5a11.FuncionarioEnsinoMedio;
-import ClassesQuestoes5a11.FuncionarioGraduacao;
-import java.util.ArrayList;
 
 /**
  *
@@ -18,7 +9,7 @@ public class Solutis_heranca_polimorfismo {
 
     public static void main(String[] args) {
         /** 
-         * Questao 1         * 
+         * Questao 1    
          * Criar uma hierarquia de classes que extendem de uma classe abstrata
          * 
          * Questao 2
@@ -39,6 +30,8 @@ public class Solutis_heranca_polimorfismo {
         //Para ver as respostas das questoes acima, remova o comentario abaixo
         
         //Questoes1a4.resposta();
+        
+        //==================================================================
         
         /**
          * Questao 5
@@ -76,7 +69,7 @@ public class Solutis_heranca_polimorfismo {
         
         //Para ver as respostas das questoes acima, remova o comentario abaixo
         
-        Questoes5a11.resposta();
+        //Questoes5a11.resposta();
 
     }
 }
